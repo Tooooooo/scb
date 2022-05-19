@@ -21,7 +21,7 @@
 
 ## --- 项目启动框架 ---
 
-* [框架本身](starter/scaffold.md)
+* [框架本身](starter/scaffolding.md)
 * [配置服务](starter/configuration_service.md)
 
 ## --- 组件库 ---
