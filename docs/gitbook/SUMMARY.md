@@ -29,6 +29,7 @@
 * [安全组件](components/security.md)
 * [功能组件](components/function.md)
 * [业务组件](components/business.md)
+	* [工作流](components/workflow.md)
 * [互联网生态](components/ecology.md)
 
 ## --- 共创 ---
